@@ -1,0 +1,21 @@
+{
+    "name": "ciapistess/yii2-yep-post",
+    "description": "Post with additional context information",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ciapistess",
+            "email": "ciapistess@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ciapistess\\post\\": ""
+        }
+    }
+}
